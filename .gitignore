@@ -1,0 +1,33 @@
+# Arquivos de saída do compilador
+*.o
+*.ppu
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Arquivos de log e depuração
+*.log
+*.dbg
+
+# Arquivos de configuração específicos do editor/IDE
+*.bak
+*.~*
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.~pas
+
+# Arquivos criados por sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Diretório de saída do Free Pascal (se configurado)
+lib/
+bin/
+
+# Outros arquivos ou diretórios que podem ser ignorados
+*.compiled
+*.map
